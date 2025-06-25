@@ -1,0 +1,40 @@
+.contact {
+  padding: 5rem 2rem;
+  background-color: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+.contact-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.contact h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.email-link {
+  display: block;
+  margin: 1rem 0;
+  font-size: 1.1rem;
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-links a {
+  color: #94a3b8;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: #38bdf8;
+}
